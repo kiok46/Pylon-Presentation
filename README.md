@@ -47,5 +47,5 @@ I am a python Lover and have been coding in python for past few years. I like to
 
 It's in the /bin folder
 
-![ScreenShot](https://raw.github.com/kiok46/Pycon-Presentation/master/screenshots/install.jpeg)
+![ScreenShot](https://raw.github.com/kiok46/Pycon-Presentation/master/screenshots/install.jpg)
 
