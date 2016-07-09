@@ -1,4 +1,4 @@
-# Pylon-Presentation
+# Pycon-Presentation
 
 Plyer (Platform independent compatibility layer) is a library for accessing features of your hardware / platforms. 
 Plyer provides access to features like Bluetooth, Camera, NFC, Notifications, Calling and others that are commonly found on multiple platforms. 
@@ -42,3 +42,10 @@ Presentation url: [Google Docs](https://docs.google.com/presentation/d/1eJyZCcj7
 I am a Google Summer of Code'16 Student under Python Software Foundation and Kivy being the sub-organisation.
 Project Plyer is one of the Kivy's sister projects for which I am selected to work on as my GSoC project.
 I am a python Lover and have been coding in python for past few years. I like to try different programming languages and learn new technologies.
+
+# Kivy-Remote-Shell Apk.
+
+It's in the /bin folder
+
+![ScreenShot](https://raw.github.com/kiok46/Pycon-Presentation/master/screenshots/install.jpeg)
+
